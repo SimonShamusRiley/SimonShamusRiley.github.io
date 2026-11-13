@@ -1,4 +1,4 @@
-baseURL = "https://www.simonshamusriley.github.io/"
+baseURL = "https://simonshamusriley.github.io/"
 publishDir = "docs"
 theme = "hugo-apero"
 languageCode = "en"
