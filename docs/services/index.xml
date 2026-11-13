@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Services on Hugo Apéro</title>
+		<link>https://www.simonshamusriley.github.io/services/</link>
+		<description>Recent content in Services on Hugo Apéro</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://www.simonshamusriley.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Data Analysis</title>
+				<link>https://www.simonshamusriley.github.io/services/analysis/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.simonshamusriley.github.io/services/analysis/</guid>
+				<description>&lt;p&gt;Software I can use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;R &amp;amp; RStudio&lt;/li&gt;&#xA;&lt;li&gt;Stan&lt;/li&gt;&#xA;&lt;li&gt;JAGS&lt;/li&gt;&#xA;&lt;li&gt;SAS&lt;/li&gt;&#xA;&lt;li&gt;JMP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Statistical Methods I Use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linear Models&lt;/li&gt;&#xA;&lt;li&gt;Generalized Linear Models&lt;/li&gt;&#xA;&lt;li&gt;Mixed Models&lt;/li&gt;&#xA;&lt;li&gt;Ordinal Regression&lt;/li&gt;&#xA;&lt;li&gt;Bayesian Data Analysis&lt;/li&gt;&#xA;&lt;li&gt;Multivariate Methods&lt;/li&gt;&#xA;&lt;li&gt;etc.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Statistical Consulting</title>
+				<link>https://www.simonshamusriley.github.io/services/consulting/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.simonshamusriley.github.io/services/consulting/</guid>
+				<description>&lt;p&gt;I can advise on the design of experiments, the choice of statistical methods, the interpretation and presentation of results, and much, much more!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Teaching</title>
+				<link>https://www.simonshamusriley.github.io/services/teaching/</link>
+				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://www.simonshamusriley.github.io/services/teaching/</guid>
+				<description>&lt;p&gt;I can lecture for existing courses, design and conduct workshops, and provide hands-on coding tutorials.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
