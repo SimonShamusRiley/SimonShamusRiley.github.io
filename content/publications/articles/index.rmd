@@ -1,0 +1,27 @@
+---
+title: "Peer-Reviewed Journal Articles"  
+date: 2025-01-01
+excerpt: |
+  Riley, S., Acosta, M., Martínez-Barón, D., Martinez, J. D., & Castellanos, A. (2026). Climate-smart villages and empowerment: Evidence from Honduras and Guatemala. *Gender, Technology and Development*, 0(0), 1–28. https://doi.org/10.1080/09718524.2026.2688036
+  
+  
+  Ataide, L. M. S., Riley, S., Dutra, J., De Giosa, M., Canon, M. A., Della Vechia, J. F., Tassi, A. D., Villamarin, P., Crane, J. H., Carrillo, D., & Revynthi, A. M. (2026). Spatiotemporal infestation   patterns of Aceria Litchii Keifer (Acari: Eriophyidae) in a lychee orchard in South Florida. *Scientific Reports*. https://doi.org/10.1038/s41598-026-39535-y
+  
+  
+  Riley, S., & van Santen, E. (2025). Statistical considerations in the analysis of minirhizotron data and a review of current practice in agronomic research. *Vadose Zone Journal*, 24(1), e20395. https://doi.org/10.1002/vzj2.20395
+  
+draft: false
+tags:
+  - style
+categories:
+  - Theme Features
+# layout options: single, single-sidebar
+layout: single
+bibliography: articles.bib
+csl: apa.csl
+nocite: '@*' 
+---
+
+::: {#refs}
+
+:::
