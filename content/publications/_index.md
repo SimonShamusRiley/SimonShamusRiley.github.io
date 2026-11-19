@@ -1,6 +1,8 @@
 ---
 title: Publications
 description: |
+  Selected recent publications are shown here. For a complete list, click on the publication type.
+  
 author: "Simon S. Riley, PhD"
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only

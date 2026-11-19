@@ -1,6 +1,6 @@
 ---
 title: "Peer-Reviewed Journal Articles"  
-date: 2025-01-01
+date: 2025-01-03
 excerpt: |
   Riley, S., Acosta, M., Martínez-Barón, D., Martinez, J. D., & Castellanos, A. (2026). Climate-smart villages and empowerment: Evidence from Honduras and Guatemala. *Gender, Technology and Development*, 0(0), 1–28. https://doi.org/10.1080/09718524.2026.2688036
   

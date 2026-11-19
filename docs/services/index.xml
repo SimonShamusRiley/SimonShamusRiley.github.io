@@ -10,29 +10,29 @@
 		
 		
 		
-			<lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 03 Jan 2025 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://simonshamusriley.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Statistical Consulting</title>
+				<link>https://simonshamusriley.github.io/services/consulting/</link>
+				<pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+				<guid>https://simonshamusriley.github.io/services/consulting/</guid>
+				<description>&lt;p&gt;Statistical problems are cheapest to fix before the data are collected. An underpowered experiment, a design that confounds the effects you want to separate, or a sampling scheme that doesn’t match your analysis can’t be rescued after the fact, however sophisticated the methods. The most valuable time to consult a statistician is at the planning stage. I work with researchers to design experiments that answer their questions efficiently. That includes choosing an appropriate design, determining how many replicates, sites, or seasons are needed, and running power analyses to make sure the study can detect the effects that matter.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Data Analysis</title>
 				<link>https://simonshamusriley.github.io/services/analysis/</link>
 				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 				<guid>https://simonshamusriley.github.io/services/analysis/</guid>
-				<description>&lt;p&gt;Software I can use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;R &amp;amp; RStudio&lt;/li&gt;&#xA;&lt;li&gt;Stan&lt;/li&gt;&#xA;&lt;li&gt;JAGS&lt;/li&gt;&#xA;&lt;li&gt;SAS&lt;/li&gt;&#xA;&lt;li&gt;JMP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Statistical Methods I Use:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Linear Models&lt;/li&gt;&#xA;&lt;li&gt;Generalized Linear Models&lt;/li&gt;&#xA;&lt;li&gt;Mixed Models&lt;/li&gt;&#xA;&lt;li&gt;Ordinal Regression&lt;/li&gt;&#xA;&lt;li&gt;Bayesian Data Analysis&lt;/li&gt;&#xA;&lt;li&gt;Multivariate Methods&lt;/li&gt;&#xA;&lt;li&gt;etc.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-			</item>
-			<item>
-				<title>Statistical Consulting</title>
-				<link>https://simonshamusriley.github.io/services/consulting/</link>
-				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>https://simonshamusriley.github.io/services/consulting/</guid>
-				<description>&lt;p&gt;I can advise on the design of experiments, the choice of statistical methods, the interpretation and presentation of results, and much, much more!&lt;/p&gt;</description>
+				<description>&lt;p&gt;Some projects need more than advice. If you lack the time, the specialized skills, or the in-house support to carry out an analysis yourself, I can take it on, working closely with you so the results reflect your scientific questions and hold up to peer review.&lt;/p&gt;&#xA;&lt;p&gt;Data preparation. Real research data are rarely tidy. Multi-site, multi-season trials, long-term monitoring records, and data assembled from many sources often arrive with inconsistent formats, missing values, coding errors, and structural problems that can quietly undermine an analysis. I can clean, manage, and validate large, complex, and messy data sets, so the analysis rests on a sound foundation.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Teaching</title>
 				<link>https://simonshamusriley.github.io/services/teaching/</link>
 				<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
 				<guid>https://simonshamusriley.github.io/services/teaching/</guid>
-				<description>&lt;p&gt;I can lecture for existing courses, design and conduct workshops, and provide hands-on coding tutorials.&lt;/p&gt;</description>
+				<description>&lt;p&gt;Statistical consulting solves the problem at hand. Teaching builds the skills to solve the next one yourself. I design and deliver training for research groups, departments, and graduate programs, from short focused sessions to multi-day courses.&lt;/p&gt;&#xA;&lt;p&gt;Custom workshops and training seminars. These are built around what your group actually needs. That may be a hands-on coding workshop that takes participants from raw data to a finished analysis in R, SAS, or Stan. It may be a seminar on a specific method, such as power analysis, mixed models for repeated measures and unbalanced data, nonlinear models for dose-response experiments, or Bayesian methods. Or it may be a session on the principles of good statistical practice, including how to design experiments and how to report methods and results so they are clear, complete, and convincing to reviewers. I have delivered workshops and seminars on all of these topics for research staff and graduate students at the University of Florida, Aarhus University, and the International Institute of Tropical Agriculture. Sessions are practical and grounded in examples from agricultural and environmental research, so participants can apply what they learn directly to their own work. Workshops can be held remotely or in person.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
